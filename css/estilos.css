@@ -1,6 +1,7 @@
 body
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
     color: red;
 =======
 <<<<<<< HEAD
@@ -9,6 +10,9 @@ body
 >>>>>>> a02c02f (Color de fondo, logo nuevo y mejor color de header)
     color: #333;
 >>>>>>> 1a048f2 (Color de fondo, logo nuevo y mejor color de header)
+=======
+    color: red;
+>>>>>>> eacfb66 (Modifique la cabecera y el color del texto)
     text-align: left;
     font-family: "arial";
     font-size: 16px;
