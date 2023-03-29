@@ -1,18 +1,7 @@
 body
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
-    color: red;
-=======
-<<<<<<< HEAD
-=======
-    background: #1e1f24;
->>>>>>> a02c02f (Color de fondo, logo nuevo y mejor color de header)
+
     color: #333;
->>>>>>> 1a048f2 (Color de fondo, logo nuevo y mejor color de header)
-=======
-    color: red;
->>>>>>> eacfb66 (Modifique la cabecera y el color del texto)
     text-align: left;
     font-family: "arial";
     font-size: 16px;
@@ -57,11 +46,10 @@ body
     font-size: 20px;
 }
 
-<<<<<<< HEAD
+
 #post
 {
     background: white;
     padding: 1em;
 }
-=======
->>>>>>> footer
+
